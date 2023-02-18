@@ -1,5 +1,5 @@
 # web-devlopment
 
-web dev this contian a learn coruse
+web dev is a learn coruse
 
 any one need dev a website here now 
